@@ -102,3 +102,4 @@ Esta versión modifica el flujo para ejecutar una descarga local con `main.py`, 
 ## Uso responsable
 
 Usa el scraper únicamente con datos a los que tengas autorización para acceder. Respeta la privacidad de las personas, las condiciones de Instagram y la legislación aplicable. Instagram puede cambiar sus endpoints, limitar solicitudes o no devolver algunos datos.
+<img width="622" height="325" alt="image" src="https://github.com/user-attachments/assets/14ee0368-3f37-4059-ae63-8af534621144" />
