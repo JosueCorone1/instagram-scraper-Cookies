@@ -1,0 +1,7 @@
+services:
+  instagram-scraper:
+    build: .
+    volumes:
+      - ./output:/app/output
+    environment:
+      - INSTAGRAM_COOKIES=${INSTAGRAM_COOKIES:-}
